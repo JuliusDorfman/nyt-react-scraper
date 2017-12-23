@@ -1,0 +1,13 @@
+.Navbar .navbar {
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+.navbar li {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.navbar a {
+	font-weight: bold;
+}

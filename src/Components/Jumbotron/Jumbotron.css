@@ -1,0 +1,11 @@
+.jumbotron {
+    background-color: darkslateblue;
+    color: white;
+    text-shadow: 5px 5px 10px black;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+
+.jumbotron h1 {
+    font-weight: bolder;
+}

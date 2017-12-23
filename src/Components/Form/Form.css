@@ -1,0 +1,12 @@
+.form-group label {
+	margin-top: 2em;
+	color: darkslategrey;
+}
+
+form .form-group {
+	border: 1px darkslateblue;
+}
+
+.form-group {
+	margin-bottom: 40px;
+}
